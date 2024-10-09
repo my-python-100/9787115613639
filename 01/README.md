@@ -2,7 +2,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Thu Sep 21 11:24:34 CST 2023` | -
+`Wed Oct  9 21:13:55 CST 2024` | `Thu Sep 21 11:24:34 CST 2023`
 
 
 ## 1.1　编程环境简介
@@ -24,4 +24,4 @@
 
 **1.3.1　给 VS Code 安装 Python 扩展**
 
-* 请选择 Microsoft 提供的扩展
+* 请选择 Microsoft 提供的扩展: [Python - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
