@@ -2,7 +2,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Thu Sep 21 23:28:44 CST 2023` | -
+`Wed Oct  9 23:42:29 CST 2024` | `Thu Sep 21 23:28:44 CST 2023`
 
 ## 4.1　遍历整个列表
 
@@ -55,3 +55,11 @@ players[0:4]
 * Python 将不能修改的值称为不可变的，而不可变的列表称为元组（tuple）。
 
 **4.5.1　定义元组**
+
+* 使用圆括号而不是方括号
+* 定义只包含一个元素的元祖，必须在这个元素后面加上逗号
+
+## 4.6 设置代码格式
+
+* Python 增强天(Python Enhancerment Proposal, PEP)
+* <https://china-testing.github.io/python_pep8.html>
