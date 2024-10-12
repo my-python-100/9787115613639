@@ -4,6 +4,28 @@
 |:---:|:---:
 `Sun Sep 24 22:53:10 CST 2023` | -
 
+## 11.1 测试函数
+
+**11.1.1 单元测试和测试用例**
+
+* `unittest` 提供了代码测试工具
+
+**11.1.2 可通过的测试**
+
+```python
+import unittest
+class NameTestCase(unittest.TestCase):
+  def test_():
+    pass
+
+unittest.main()
+```
+
+* 所有以 test 打头的方法都将自动运行
+
+
+---
+
 ## 11.1　使用 pip 安装 pytest
 
 **11.1.1　更新 pip**
