@@ -2,28 +2,24 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Sun Sep 24 22:22:49 CST 2023` | -
+`Sat Oct 12 15:33:43 CST 2024` | `Sun Sep 24 22:22:49 CST 2023`
 
-## 10.1　读取文件
-
-```python
-from pathlib import Path
-
-path = Path('pi_digits.txt')
-```
-
-* Path 对象指向一个文件，可用来做很多事情
-* 使用 read_text() 方法来读取这个文件的全部内容
-
-**10.1.3　访问文件中的各行**
+## 10.1 从文件中读取数据
 
 ```python
-lines = contents.splitlines()
+open()
+read()
+readlines()
 ```
+
+
 
 ## 10.2　写入文件
 
-* 定义一个文件的路径后，就可使用 write_text() 将数据写入该文件了
+
+```python
+write()
+```
 
 ## 10.3　异常
 
